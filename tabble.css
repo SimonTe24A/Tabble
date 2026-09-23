@@ -1,0 +1,28 @@
+table,th,td,tr{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+td,th{
+    width: 200px;
+    height: 100px;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.röd{
+    background-color: red;
+}
+
+.svart{
+    background-color: black;
+}
+
+.gul{
+    background-color: yellow;
+}
+
+.grön{
+    background-color: lime;
+}
